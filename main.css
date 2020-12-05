@@ -1,0 +1,633 @@
+* {
+    box-sizing: border-box;
+}
+
+:root {
+    /* FONTS */
+    --base-font: 'Indie Flower', cursive, 'Courier New', Courier, monospace;
+}
+    /* LIGHT MODE */
+    /* --lightcolor1: ;
+    --lightcolor2: ;
+    --lightcolor3: ;
+    --lightcolor4: ;
+    --lightcolor5: ;
+    --lightcolor6: ;
+    --lightcolor7: ;
+    --lightcolor8: ;
+    --lightcolor9: ;
+    --lightcolor10: ; */
+
+
+
+
+    /* DARK MODE */
+    /* --darkcolor1: ;
+    --darkcolor2: ;
+    --darkcolor3: ;
+    --darkcolor4: ;
+    --darkcolor5: ;
+    --darkcolor6: ;
+    --darkcolor7: ;
+    --darkcolor8: ;
+    --darkcolor9: ;
+    --darkcolor10: ; */
+
+
+
+
+
+body {
+    margin:0;
+    padding:0;
+    background-color: rgba(50,50,50,.8);
+    background-image: url("/UploadPhotosToWeb/IMG_0257.PNG");
+    background-repeat: no-repeat;
+    background-size: contain;
+    font-family: 'Indie Flower', cursive, 'Courier New', Courier, monospace;
+}
+
+
+/* HTML TAGS */
+
+div {
+    border: 1px dotted rgba(40,40,40,.8);
+    /* position: relative; */
+}
+
+h2 {
+
+}
+
+h4 {
+
+}
+
+h3 {
+
+}
+
+img {
+
+}
+
+/* ———————————————————————————————————————————————————— */
+
+
+/* IDS */
+
+#room {
+    border: none;
+}
+
+.wall {
+
+}
+
+.project {
+
+}
+
+.stillObject {
+    /* position: relative; */
+    background-color: transparent;
+    background: transparent;
+}
+
+.shelf {
+
+}
+
+/*(query)*/
+.animate {
+    /* position: absolute; */
+    background-color: transparent;
+    background: transparent;
+}
+
+
+/* WALL ONE */
+#wallOne {
+    /* background-color: rgba(150,50,50,.7); */
+}
+
+.projectboard {
+    background-image: url("/UploadPhotosToWeb/new/IMG_0174\ 2.PNG");
+}
+
+#Ekseed {
+
+}
+
+#Deviant {
+
+}
+
+#minifi {
+
+}
+
+#MBCrunch {
+
+}
+
+#NOSH {
+
+}
+
+#Wayfarer {
+
+}
+
+
+
+/* WALL TWO */
+#wallTwo {
+    /* background-color: rgba(50,150,50,.7); */
+
+}
+
+
+.fitness {
+
+}
+
+.refMinifi {
+
+}
+
+.music {
+
+}
+
+.maps {
+
+}
+
+.map {
+
+}
+
+.book {
+
+}
+
+
+.educationLife {
+
+}
+
+#familyPhoto {
+
+}
+
+#ZackLiz {
+
+}
+
+#NAUBA {
+    /* background-color: transparent; */
+    /* background: transparent; */
+}
+
+#NAUMA {
+
+}
+
+#GASEI {
+
+}
+
+
+.art {
+}
+
+#artbox {
+    z-index: 5;
+
+}
+
+#books {
+
+}
+
+#ipad {
+    z-index: 5;
+
+}
+
+#paintset {
+    z-index: 5;
+
+}
+
+#cantippedover {
+    z-index: 5;
+
+}
+
+
+#weight1 {
+
+}
+
+#weight2 {
+
+}
+
+#weight3 {
+
+}
+
+
+#guitar {
+
+}
+
+#mic {
+
+}
+
+#amplifier {
+
+}
+
+#musicShelf {
+
+}
+
+#musicshelfobj {
+
+}
+
+#cds {
+
+}
+
+#journals {
+
+}
+
+#pen {
+
+}
+
+#headphones {
+
+}
+
+
+#arizona {
+
+}
+
+#newMexico {
+
+}
+
+#france {
+
+}
+
+#california {
+
+}
+
+#worldMap {
+
+}
+
+
+
+/* WALL THREE */
+#wallThree {
+    /* background-color: rgba(50,50,150,.7); */
+}
+
+
+#window {
+
+}
+
+#bench {
+
+}
+
+#openBook {
+
+}
+
+#blanket {
+
+}
+
+
+
+/* WALLFOUR */
+#wallFour {
+    /* background-color: rgba(75,75,50,.7); */
+}
+
+
+#bookshelf {
+
+}
+
+#vase {
+
+}
+
+#bikeend {
+
+}
+
+#book1 {
+
+}
+
+#book2 {
+
+}
+
+#book3 {
+
+}
+
+#book4 {
+
+}
+
+#bikeend {
+
+}
+
+——
+#typewritershelf {
+
+}
+
+#pen cup {
+
+}
+
+#typewriter {
+
+}
+
+#paperstack {
+
+}
+
+——
+#bookcase {
+    /* background-image: url("/UploadPhotosToWeb/new/IMG_0183\ 2.png"); */
+}
+
+#bookcaseShelf4 {
+
+}
+
+#bookcaseShelf3 {
+
+}
+
+#bookcaseShelf2 {
+
+}
+
+#bookcaseShelf1 {
+
+}
+
+#bookcaseShelf0 {
+
+}
+
+——
+#refMBCrunch {
+
+}
+
+#cup1 {
+
+}
+
+#cup2 {
+
+}
+
+#cup3 {
+
+}
+
+#paperball {
+
+}
+
+
+
+
+/* FLOOR */
+#floor {
+    /* background-color: rgba(50,75,75,.7); */
+}
+
+
+
+#block1 {
+
+}
+
+#block2 {
+
+}
+
+#roller {
+
+}
+
+
+#matLiz {
+
+}
+
+
+.skillEmblem {
+
+}
+
+.skill {
+
+}
+
+
+#postgresql {
+
+}
+
+#CSS {
+
+}
+
+#HTML {
+
+}
+
+#JS {
+
+}
+
+#VSCode {
+
+}
+
+#CodePen {
+
+}
+
+#node {
+
+}
+
+#mongodb {
+
+}
+
+#python {
+
+}
+
+#express {
+
+}
+
+#django {
+
+}
+
+#react {
+
+}
+
+#atom {
+
+}
+
+#jquery {
+
+}
+
+#sass {
+
+}
+
+#bootstrap {
+
+}
+
+#github {
+
+}
+
+#npm {
+
+}
+
+#heroku {
+
+}
+
+#insomnia {
+
+}
+
+#adobeillustrator {
+
+}
+
+#adobephotoshop {
+
+}
+
+#adobexd {
+
+}
+
+#adobeaftereffects {
+
+}
+
+#adobelightroom {
+
+}
+
+#adobecloud {
+
+}
+
+#imovie {
+
+}
+
+#garageband {
+
+}
+
+#notion {
+
+}
+
+#airtable {
+
+}
+
+#lottiefiles {
+
+}
+
+#trello {
+
+}
+
+#pycharm {
+
+}
+
+#anaconda {
+
+}
+
+
+
+
+
+
+/* COUNTER */
+
+#counter {
+    /* background-color: rgba(75,50,75,.7); */
+}
+
+
+.letter {
+    /* background-color: ; */
+    /* width: 100px; */
+    /* height: 50px; */
+    position: relative;
+    margin-bottom: 10px;
+}
+
+#letter-resume {
+    position: absolute;
+    z-index: 5;
+}
+
+#letter-gaCertificate {
+    margin: 50px;
+}
+
+#coffeeMug {
+
+}
+
+
