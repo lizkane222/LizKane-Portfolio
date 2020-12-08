@@ -99,10 +99,6 @@ header nav h3 {
   border: 1px solid black;
 }
 
-:root {
-  /* FONTS */
-  --base-font: 'Indie Flower', cursive, 'Courier New', Courier, monospace;
-}
 
 /* LIGHT MODE */
 /* --lightcolor1: ;
@@ -126,33 +122,8 @@ header nav h3 {
     --darkcolor8: ;
     --darkcolor9: ;
     --darkcolor10: ; */
-:root {
-  /* FONTS */
-  --base-font: 'Indie Flower', cursive, 'Courier New', Courier, monospace;
-}
 
-/* LIGHT MODE */
-/* --lightcolor1: ;
-    --lightcolor2: ;
-    --lightcolor3: ;
-    --lightcolor4: ;
-    --lightcolor5: ;
-    --lightcolor6: ;
-    --lightcolor7: ;
-    --lightcolor8: ;
-    --lightcolor9: ;
-    --lightcolor10: ; */
-/* DARK MODE */
-/* --darkcolor1: ;
-    --darkcolor2: ;
-    --darkcolor3: ;
-    --darkcolor4: ;
-    --darkcolor5: ;
-    --darkcolor6: ;
-    --darkcolor7: ;
-    --darkcolor8: ;
-    --darkcolor9: ;
-    --darkcolor10: ; */
+
 /* FLOOR */
 #floor {
   /* background-color: rgba(50,75,75,.7); */
@@ -162,60 +133,7 @@ header nav h3 {
   max-width: 20px;
 }
 
-:root {
-  /* FONTS */
-  --base-font: 'Indie Flower', cursive, 'Courier New', Courier, monospace;
-}
 
-/* LIGHT MODE */
-/* --lightcolor1: ;
-    --lightcolor2: ;
-    --lightcolor3: ;
-    --lightcolor4: ;
-    --lightcolor5: ;
-    --lightcolor6: ;
-    --lightcolor7: ;
-    --lightcolor8: ;
-    --lightcolor9: ;
-    --lightcolor10: ; */
-/* DARK MODE */
-/* --darkcolor1: ;
-    --darkcolor2: ;
-    --darkcolor3: ;
-    --darkcolor4: ;
-    --darkcolor5: ;
-    --darkcolor6: ;
-    --darkcolor7: ;
-    --darkcolor8: ;
-    --darkcolor9: ;
-    --darkcolor10: ; */
-:root {
-  /* FONTS */
-  --base-font: 'Indie Flower', cursive, 'Courier New', Courier, monospace;
-}
-
-/* LIGHT MODE */
-/* --lightcolor1: ;
-    --lightcolor2: ;
-    --lightcolor3: ;
-    --lightcolor4: ;
-    --lightcolor5: ;
-    --lightcolor6: ;
-    --lightcolor7: ;
-    --lightcolor8: ;
-    --lightcolor9: ;
-    --lightcolor10: ; */
-/* DARK MODE */
-/* --darkcolor1: ;
-    --darkcolor2: ;
-    --darkcolor3: ;
-    --darkcolor4: ;
-    --darkcolor5: ;
-    --darkcolor6: ;
-    --darkcolor7: ;
-    --darkcolor8: ;
-    --darkcolor9: ;
-    --darkcolor10: ; */
 /* WALL ONE */
 #wallOne {
   /* background-color: rgba(150,50,50,.7); */

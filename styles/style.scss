@@ -8,8 +8,8 @@
 @import "./devSkills";
 @import "./fitness";
 @import "./projectNav";
-// @import "";
-// @import "";
+@import "./seekLogo";
+@import "./floatBox";
 // @import "";
 
 
@@ -23,9 +23,11 @@ body {
     font-size: 20px;
 }
 
+
+
 main {
     // margin-top: 9vh;
-    background-image: url("/UploadPhotosToWeb/IMG_0257.PNG");
+    // background-image: url("/UploadPhotosToWeb/IMG_0257.PNG");
     background-repeat: no-repeat;
     background-size: contain;
 }
@@ -34,7 +36,6 @@ main {
 /* HTML TAGS */
 div {
     border: 1px dotted rgba(40,40,40,.8);
-    /* position: relative; */
 }
 
 h2 {
@@ -93,8 +94,9 @@ img {
 
 /* WALL TWO */
 #wallTwo {
-    /* background-color: rgba(50,150,50,.7); */
-
+    background-color: rgba(50,150,50,.7);
+    position: absolute;
+    left: 15vw;
 }
 
 
